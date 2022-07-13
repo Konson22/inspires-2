@@ -1,0 +1,11 @@
+
+.navbarWraper{
+    height:4rem;
+    width:100%;
+    background-color: var(--secondary);
+}
+
+.logo-wraper{
+    background-color: var(--main);
+
+}
